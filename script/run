@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm -ti -v ${PWD}:/work dkarchmervue/moviepy python editor.py
